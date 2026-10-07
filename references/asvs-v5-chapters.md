@@ -4,6 +4,9 @@ The authoritative chapter list for every ASVS citation in these skills. **Cite f
 from memory or a web fetch** — it exists so that every run produces the same chapter numbers and titles,
 and so a wrong label shows up as a diff rather than drifting unnoticed.
 
+> **License note:** This file includes ASVS-derived content and is licensed under
+> [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
 > **Version:** ASVS **v5.0.0** · retrieved **2026-10-07** from
 > <https://github.com/OWASP/ASVS/tree/v5.0.0/5.0/en>
 >

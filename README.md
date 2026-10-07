@@ -73,3 +73,12 @@ Tool policy lives here:
 - [Tool Approval Workflow](./references/tool-approval-workflow.md)
 
 Shell execution is confined to Phase 0. Phases 1–3 are read-only.
+
+## License
+
+This repository is licensed under the MIT License. See [LICENSE](./LICENSE).
+
+Some third-party-derived documentation is licensed separately:
+
+- [references/asvs-v5-chapters.md](./references/asvs-v5-chapters.md) contains ASVS-derived material under CC BY-SA 4.0.
+- See [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md) for attribution and details.
